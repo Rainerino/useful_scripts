@@ -10,6 +10,6 @@ scan_ssid=1
 key_mgmt=WPA-EAP
 eap=PEAP
 phase2="auth=MSCHAPV2"
-identity="usrername, note add @ubc.ca"
+identity="usrername, note add 'at'ubc.ca"
 password="well..."
 }
